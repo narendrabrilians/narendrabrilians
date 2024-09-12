@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlQTOvlPo8fkCve/giphy.gif" width="600" height="300"/>
+  <img src="https://source.unsplash.com/1600x900/?nature,landscape" width="600" height="300" alt="Nature Landscape"/>
 </div>
 
 <h1 align="center">Hello, I'm Narendra F.R! 👋</h1>
@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" height="300"/>
+  <img src="https://source.unsplash.com/1600x900/?mountain,river" width="600" height="300" alt="Mountain River"/>
 </div>
 
 <h2 align="center">"Say Hello to the world!" 🌏</h2>
