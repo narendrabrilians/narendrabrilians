@@ -3,15 +3,13 @@
 
 - 🌱 I’m currently learning **Backend Engineering & DevOps**
 
-- 💬 We can discuss **Backend Engineering and DevOps**
+- 💬 We can discuss **Backend Engineering & DevOps**
 
 - 📫 How to reach me **narendrabrilians@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narendra-febriliansyah-ryambodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-febriliansyah-ryambodo" height="30" width="40" /></a>
-<a href="https://instagram.com/narendrabrilians" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narendrabrilians" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/narendrabrilians" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="narendrabrilians" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/narendrabrilians" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narendrabrilians" height="30" width="40" /></a>
 </p>
 
