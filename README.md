@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l0HlQTOvlPo8fkCve/giphy.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">Hello, I'm Narendra F.R! 👋</h1>
@@ -16,12 +16,16 @@
 
 ---
 
+💼 **Fullstack Developer** with a passion for **backend systems** and **scalable architecture**  
+🔭 Currently exploring **Next.js** and **Node.js**  
+🌱 Always learning: I am currently mastering **TypeScript**, **Prisma**, and **Linux**  
+💬 Ask me about anything tech-related, from **API development** to **system design**  
+🎯 **Motto**: Strive for **impact** through meaningful software solutions  
+
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlQTOvlPo8fkCve/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" height="300"/>
 </div>
 
 <h2 align="center">"Say Hello to the world!" 🌏</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6XXRS0isgfLDq/giphy.gif" width="300"/>
-</p>
