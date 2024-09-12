@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://source.unsplash.com/1600x900/?nature,landscape" width="600" height="300" alt="Nature Landscape"/>
+  <img src="https://media.giphy.com/media/5xkP4rBQgTo09tQAhb/giphy.gif" alt="Nature Landscape" style="max-width: 100%; height: auto;"/>
 </div>
 
 <h1 align="center">Hello, I'm Narendra F.R! 👋</h1>
-<h3 align="center">Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narendra-febriliansyah-ryambodo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
@@ -25,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x900/?mountain,river" width="600" height="300" alt="Mountain River"/>
+  <img src="https://media.giphy.com/media/f8L7ohf4CDQST8gwEC/giphy.gif" alt="Mountain River" style="max-width: 100%; height: auto;"/>
 </div>
 
-<h2 align="center">"Say Hello to the world!" 🌏</h2>
+<h2 align="center">Say Hello to the world! 🌏</h2>
