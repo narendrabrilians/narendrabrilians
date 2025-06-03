@@ -3,10 +3,12 @@
 </div>
 
 <h1 align="center">Hi, I'm Narendra F R</h1>
-<h3 align="center">Striving to make a positive impact.</h3>
+<h3 align="center">Striving to make positive impacts.</h3>
 
-- 🌱 I’m currently learning **Software Engineering**
-- 💬 We can discuss **Software Engineering**
-- 📫 How to reach me **narendrabrilians@gmail.com**
+- 🌱 Focused on Cybersecurity
+
+- 💬 Open to discussions on Cybersecurity and related topics
+
+- 📫 Reach me at narendrabrilians@gmail.com
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabrilians&" alt="narendrabrilians" /></p>
