@@ -3,4 +3,4 @@
 </div>
 
 <h1 align="center">Hi, I'm Narendra F R</h1>
-<h3 align="center">Striving to make positive impacts.</h3>
+<h3 align="center">Striving to create positive impacts & make the world safer.</h3>
